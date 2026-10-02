@@ -26,7 +26,9 @@ Live op **https://natuurbeleving.vdaele.be** via GitHub Pages (branch `main`, ma
 - Het `CNAME`-bestand bevat het subdomein.
 - DNS staat bij Cloudflare: een CNAME-record `natuurbeleving` → `frevdaele.github.io`, *DNS only* (grijze wolk), zodat GitHub zelf het certificaat kan aanmaken.
 
-**Let op:** `materiaal/` wordt dan mee gepubliceerd. Het is niet gelinkt en `robots.txt` weert zoekmachines, maar wie het pad kent, kan het openen. Er zit materiaal van derden in (trekgeluiden, vleermuizenatlas) en namen van tellers.
+**Niet indexeren:** dit is een archiefsite. `robots.txt` verbiedt alle zoekrobots en elke pagina heeft `<meta name="robots" content="noindex, nofollow, noarchive">`.
+
+**Let op:** `materiaal/` wordt mee gepubliceerd. Het is niet gelinkt, maar wie het pad kent, kan het openen. Er zit materiaal van derden in (trekgeluiden, vleermuizenatlas) en namen van tellers.
 
 ## Herkomst
 
