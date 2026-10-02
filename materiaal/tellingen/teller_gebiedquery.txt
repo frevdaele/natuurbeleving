@@ -1,0 +1,22 @@
+code	Gebieden_naam	Tellers_naam	voornaam
+2061205	Nieuwe Vijver OUDENAARDE	De Groote	Davy
+2061204	Ohio-Vijver OUDENAARDE	De Groote	Davy
+2061102	Donkmeer OUDENAARDE	De Groote	Davy
+	Scheldeweiden EINE-NEDERENAME	De Groote	Davy
+2063103	Containerpark EINE	De Groote	Davy
+2066604	Schelde EINE-OUDENAARDE	De Groote	Davy
+2063104	Zevenputten EINE	De Groote	Davy
+2060402	Hazeheet KRUISHOUTEM	Geiregat	Nico
+2066605	Schelde OUDENAARDE-KERKHOVE	Geiregat	Nico
+2061102	Oude Schelde (+ meersen) HEURNE	Menschaert	Luc
+2061103	Dal HEURNE	Menschaert	Luc
+2060901	Weiput ZINGEM	Van Daele	Frederik
+2066602	Schelde GAVERE-ZINGEM	Van Daele	Frederik
+2066603	Schelde ZINGEM-EINE	Van Daele	Frederik
+2060908	Kleinmeers ZINGEM	Van Daele	Frederik
+2060906	Moorteleput ZINGEM	Van Daele	Frederik
+2060910	Spettekraai ZINGEM	Van Daele	Frederik
+2060911	Mesure ZINGEM	Van Daele	Frederik
+2060905	Meersen + Coupure ZINGEM	Van Daele	Frederik
+2060909	Moeras Vindevogel ZINGEM	Van Daele	Frederik
+2060907	Grootmeers ZINGEM	Van Daele	Frederik
