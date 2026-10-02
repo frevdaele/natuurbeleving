@@ -22,8 +22,9 @@ python3 -m http.server 8402
 
 ## Publiceren
 
-- **Cloudflare Pages**: koppel de repo, laat het build command leeg en zet de output directory op `/`.
-- **GitHub Pages**: Settings → Pages → branch `main`, map `/ (root)`. Alle links zijn relatief.
+Live op **https://natuurbeleving.vdaele.be** via GitHub Pages (branch `main`, map `/`).
+- Het `CNAME`-bestand bevat het subdomein.
+- DNS staat bij Cloudflare: een CNAME-record `natuurbeleving` → `frevdaele.github.io`, *DNS only* (grijze wolk), zodat GitHub zelf het certificaat kan aanmaken.
 
 **Let op:** `materiaal/` wordt dan mee gepubliceerd. Het is niet gelinkt en `robots.txt` weert zoekmachines, maar wie het pad kent, kan het openen. Er zit materiaal van derden in (trekgeluiden, vleermuizenatlas) en namen van tellers.
 
